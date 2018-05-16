@@ -1,0 +1,22 @@
+User-agent: *
+Disallow: /wp-admin/
+Allow: /wp-content/uploads/
+Disallow: /wp-includes/
+Disallow: /cgi-bin/
+Disallow: /wp-content/plugins/
+Disallow: /wp-content/cache/
+Disallow: /wp-content/themes/
+Disallow: /category/*/*
+Disallow: /category/author/*
+Disallow: /trackback/
+Disallow: /comments/
+Disallow: /Tags/
+Disallow: /hotels/
+Disallow: */hotels/
+Disallow: /nl/hotels/
+Disallow: /simple-page/
+Disallow: */media_category/	
+Disallow: */neighborhood/*
+Disallow: /neighborhoods/
+Disallow: /restaurants/
+
